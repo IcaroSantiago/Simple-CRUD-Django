@@ -20,3 +20,4 @@ pip install -r requirements.txt
 # Projeto
 ![tst](https://user-images.githubusercontent.com/73247255/145236245-3c070160-e39d-4444-8ebf-9a8408304cbc.png)
 <br>
+![produtos](https://user-images.githubusercontent.com/73247255/145236258-183cfb07-5edf-4f2e-98f4-3d6be2454871.png)
