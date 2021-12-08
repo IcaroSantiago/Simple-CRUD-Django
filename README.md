@@ -12,7 +12,7 @@ Executar o sistema com o seguinte codigo:
 python manage.py runserver
 
 # Requisitos
-Pyhton 
+Python
 Django 
 
 pip install -r requirements.txt
