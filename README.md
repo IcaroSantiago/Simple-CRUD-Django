@@ -18,3 +18,5 @@ Django
 pip install -r requirements.txt
 
 # Projeto
+![tst](https://user-images.githubusercontent.com/73247255/145236245-3c070160-e39d-4444-8ebf-9a8408304cbc.png)
+<br>
