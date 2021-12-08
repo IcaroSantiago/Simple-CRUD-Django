@@ -4,7 +4,7 @@ Um sistema simples de estoque utilizando a linguagem  Pyhton e a framework Djang
 # O primeiro passo: 
 Acessar a pasta do arquivo:
 
-cd Sistema-simples-de-Estoque-master\
+cd Simple-CRUD-Django-master\
 
 # Segundo Passo:
 Executar o sistema com o seguinte codigo:
@@ -16,3 +16,5 @@ Python
 Django 
 
 pip install -r requirements.txt
+
+# Projeto
